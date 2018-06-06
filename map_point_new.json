@@ -1,5 +1,6 @@
-{
-    
+[
+  {
+    iconPath: "../img/marker.png",
     id: 0,
     title: "布达拉宫",
     address: "拉萨-西藏",
@@ -15,7 +16,7 @@
       "http://lixianglin.com/images/jd/xz002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 1,
     title: "成都",
     address: "四川省",
@@ -30,7 +31,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/cd001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 2,
     title: "珠峰大本营",
     address: "西藏",
@@ -45,7 +46,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/xz1.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 3,
     title: "青海湖",
     address: "青海省",
@@ -60,7 +61,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/qh001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 4,
     title: "月牙泉",
     address: "敦煌-甘肃省",
@@ -75,7 +76,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/gs001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 5,
     title: "河内",
     address: "越南",
@@ -90,7 +91,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/hn001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 6,
     title: "顺化",
     address: "越南",
@@ -105,7 +106,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/sh001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 7,
     title: "会安",
     address: "越南",
@@ -120,7 +121,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/huan001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 8,
     title: "芽庄",
     address: "越南",
@@ -135,7 +136,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/yz001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 9,
     title: "大叻",
     address: "越南",
@@ -150,7 +151,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/dal001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 10,
     title: "美奈",
     address: "越南",
@@ -165,7 +166,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/mn001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 11,
     title: "西贡",
     address: "越南",
@@ -180,7 +181,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/xg001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 12,
     title: "金边",
     address: "柬埔寨",
@@ -195,7 +196,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/jpz001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 13,
     title: "吴哥窟",
     address: "柬埔寨",
@@ -210,7 +211,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/jpz002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 14,
     title: "曼谷",
     address: "泰国",
@@ -225,7 +226,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/tg001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 15,
     title: "清迈",
     address: "泰国",
@@ -240,7 +241,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/tg002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 16,
     title: "会晒",
     address: "老挝",
@@ -255,7 +256,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/lw002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 17,
     title: "琅勃拉邦",
     address: "老挝",
@@ -270,7 +271,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/lw001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 18,
     title: "昆明市",
     address: "云南省",
@@ -285,7 +286,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/yn001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 19,
     title: "大理",
     address: "云南省",
@@ -300,7 +301,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/yn003.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 20,
     title: "丽江古城",
     address: "云南省",
@@ -315,7 +316,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/yn002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 21,
     title: "束河古镇",
     address: "云南",
@@ -330,7 +331,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/yn004.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 22,
     title: "泰山",
     address: "山东省",
@@ -345,7 +346,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/sd002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 23,
     title: "黄鹤楼",
     address: "湖北省",
@@ -360,7 +361,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/hb001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 24,
     title: "灵山岛",
     address: "青岛-山东省",
@@ -375,7 +376,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/sd001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 25,
     title: "庐山",
     address: "江西省",
@@ -390,7 +391,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/jx001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 26,
     title: "小蛮腰",
     address: "广州",
@@ -405,7 +406,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/gd001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 27,
     title: "白石山",
     address: "河北省",
@@ -420,7 +421,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/hebei001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 28,
     title: "天安门",
     address: "北京市",
@@ -435,7 +436,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/bj001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 29,
     title: "哈尔滨",
     address: "黑龙江",
@@ -451,7 +452,7 @@
       "http://lixianglin.com/images/jd/haerb0.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 30,
     title: "北极村",
     address: "漠河-黑龙江",
@@ -468,7 +469,7 @@
       "http://lixianglin.com/images/jd/bjc3.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 31,
     title: "沈阳",
     address: "辽宁",
@@ -483,7 +484,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/sy0.jpg",
       "http://lixianglin.com/images/jd/sy1.jpg"]
   }, {
-    
+    iconPath: "../img/marker.png",
     id: 32,
     title: "杭州",
     address: "浙江",
@@ -498,7 +499,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/hangzhou001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 33,
     title: "苏州",
     address: "江苏",
@@ -513,7 +514,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/sz001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 34,
     title: "黄山",
     address: "安徽",
@@ -529,7 +530,7 @@
       "http://lixianglin.com/images/jd/huangshan001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 35,
     title: "东方明珠",
     address: "上海",
@@ -544,7 +545,7 @@
     imgUrls: ["http://lixianglin.com/images/jd/shanghai001.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 36,
     title: "乌镇",
     address: "浙江",
@@ -560,7 +561,7 @@
       "http://lixianglin.com/images/jd/wuzhen002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 37,
     title: "张家界",
     address: "湖南",
@@ -576,7 +577,7 @@
       "http://lixianglin.com/images/jd/zjj002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 38,
     title: "东京",
     address: "日本",
@@ -592,7 +593,7 @@
       "http://lixianglin.com/images/jd/dongjing002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 39,
     title: "京都",
     address: "日本",
@@ -608,7 +609,7 @@
       "http://lixianglin.com/images/jd/jingdu002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 40,
     title: "奈良 ",
     address: "日本",
@@ -624,7 +625,7 @@
       "http://lixianglin.com/images/jd/nailiang002.jpg"]
   },
   {
-    
+    iconPath: "../img/marker.png",
     id: 41,
     title: "大阪 ",
     address: "日本",
@@ -639,4 +640,4 @@
     imgUrls: ["http://lixianglin.com/images/jd/daban001.jpg",
       "http://lixianglin.com/images/jd/daban002.jpg",
       "http://lixianglin.com/images/jd/daban003.jpg"]
-  }
+  }]
