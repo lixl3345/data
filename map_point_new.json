@@ -1,0 +1,642 @@
+{
+    
+    id: 0,
+    title: "布达拉宫",
+    address: "拉萨-西藏",
+    latitude: 29.6566322,
+    longitude: 91.117877,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "布达拉宫",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/xz001.jpg",
+      "http://lixianglin.com/images/jd/xz002.jpg"]
+  },
+  {
+    
+    id: 1,
+    title: "成都",
+    address: "四川省",
+    latitude: 30.6478303,
+    longitude: 104.0475221,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "成都",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/cd001.jpg"]
+  },
+  {
+    
+    id: 2,
+    title: "珠峰大本营",
+    address: "西藏",
+    latitude: 28.135564,
+    longitude: 86.853468,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "珠峰大本营",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/xz1.jpg"]
+  },
+  {
+    
+    id: 3,
+    title: "青海湖",
+    address: "青海省",
+    latitude: 36.8831951,
+    longitude: 100.188172,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "青海湖",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/qh001.jpg"]
+  },
+  {
+    
+    id: 4,
+    title: "月牙泉",
+    address: "敦煌-甘肃省",
+    latitude: 40.087255,
+    longitude: 94.66943,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "月牙泉",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/gs001.jpg"]
+  },
+  {
+    
+    id: 5,
+    title: "河内",
+    address: "越南",
+    latitude: 21.031506,
+    longitude: 105.836105,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "河内",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/hn001.jpg"]
+  },
+  {
+    
+    id: 6,
+    title: "顺化",
+    address: "越南",
+    latitude: 16.474867,
+    longitude: 107.57589,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "顺化",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/sh001.jpg"]
+  },
+  {
+    
+    id: 7,
+    title: "会安",
+    address: "越南",
+    latitude: 15.881056,
+    longitude: 108.332946,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "会安",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/huan001.jpg"]
+  },
+  {
+    
+    id: 8,
+    title: "芽庄",
+    address: "越南",
+    latitude: 12.247148,
+    longitude: 109.186654,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "芽庄",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/yz001.jpg"]
+  },
+  {
+    
+    id: 9,
+    title: "大叻",
+    address: "越南",
+    latitude: 11.947571,
+    longitude: 108.445913,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "大叻",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/dal001.jpg"]
+  },
+  {
+    
+    id: 10,
+    title: "美奈",
+    address: "越南",
+    latitude: 10.924032,
+    longitude: 108.288796,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "美奈",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/mn001.jpg"]
+  },
+  {
+    
+    id: 11,
+    title: "西贡",
+    address: "越南",
+    latitude: 10.837122,
+    longitude: 106.635257,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "西贡",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/xg001.jpg"]
+  },
+  {
+    
+    id: 12,
+    title: "金边",
+    address: "柬埔寨",
+    latitude: 11.547041,
+    longitude: 104.89498,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "金边",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/jpz001.jpg"]
+  },
+  {
+    
+    id: 13,
+    title: "吴哥窟",
+    address: "柬埔寨",
+    latitude: 13.412417,
+    longitude: 103.866975,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "吴哥窟",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/jpz002.jpg"]
+  },
+  {
+    
+    id: 14,
+    title: "曼谷",
+    address: "泰国",
+    latitude: 13.751123,
+    longitude: 100.523194,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "曼谷",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/tg001.jpg"]
+  },
+  {
+    
+    id: 15,
+    title: "清迈",
+    address: "泰国",
+    latitude: 18.703625,
+    longitude: 98.981193,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "清迈",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/tg002.jpg"]
+  },
+  {
+    
+    id: 16,
+    title: "会晒",
+    address: "老挝",
+    latitude: 20.261909,
+    longitude: 100.430316,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "会晒",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/lw002.jpg"]
+  },
+  {
+    
+    id: 17,
+    title: "琅勃拉邦",
+    address: "老挝",
+    latitude: 19.885555,
+    longitude: 102.135172,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "琅勃拉邦",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/lw001.jpg"]
+  },
+  {
+    
+    id: 18,
+    title: "昆明市",
+    address: "云南省",
+    latitude: 25.060996,
+    longitude: 102.708874,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "昆明市",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/yn001.jpg"]
+  },
+  {
+    
+    id: 19,
+    title: "大理",
+    address: "云南省",
+    latitude: 25.6975594,
+    longitude: 100.1649187,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "大理",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/yn003.jpg"]
+  },
+  {
+    
+    id: 20,
+    title: "丽江古城",
+    address: "云南省",
+    latitude: 26.87556,
+    longitude: 100.2326713,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "丽江古城",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/yn002.jpg"]
+  },
+  {
+    
+    id: 21,
+    title: "束河古镇",
+    address: "云南",
+    latitude: 26.921777,
+    longitude: 100.211651,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "束河古镇",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/yn004.jpg"]
+  },
+  {
+    
+    id: 22,
+    title: "泰山",
+    address: "山东省",
+    latitude: 36.2153421,
+    longitude: 117.1113125,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "泰山",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/sd002.jpg"]
+  },
+  {
+    
+    id: 23,
+    title: "黄鹤楼",
+    address: "湖北省",
+    latitude: 30.5470341,
+    longitude: 114.2971365,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "黄鹤楼",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/hb001.jpg"]
+  },
+  {
+    
+    id: 24,
+    title: "灵山岛",
+    address: "青岛-山东省",
+    latitude: 35.761805,
+    longitude: 120.16624,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "灵山岛",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/sd001.jpg"]
+  },
+  {
+    
+    id: 25,
+    title: "庐山",
+    address: "江西省",
+    latitude: 29.5711965,
+    longitude: 115.9767666,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "庐山",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/jx001.jpg"]
+  },
+  {
+    
+    id: 26,
+    title: "小蛮腰",
+    address: "广州",
+    latitude: 23.1090791,
+    longitude: 113.3191659,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "小蛮腰",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/gd001.jpg"]
+  },
+  {
+    
+    id: 27,
+    title: "白石山",
+    address: "河北省",
+    latitude: 39.244535,
+    longitude: 114.670378,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "白石山",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/hebei001.jpg"]
+  },
+  {
+    
+    id: 28,
+    title: "天安门",
+    address: "北京市",
+    latitude: 39.9158719,
+    longitude: 116.390815,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "天安门",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/bj001.jpg"]
+  },
+  {
+    
+    id: 29,
+    title: "哈尔滨",
+    address: "黑龙江",
+    latitude: 45.772039,
+    longitude: 126.562984,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "哈尔滨",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/haerb.jpg",
+      "http://lixianglin.com/images/jd/haerb0.jpg"]
+  },
+  {
+    
+    id: 30,
+    title: "北极村",
+    address: "漠河-黑龙江",
+    latitude: 53.488002,
+    longitude: 122.359403,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "北极村",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/bjc1.jpg",
+      "http://lixianglin.com/images/jd/bjc2.jpg",
+      "http://lixianglin.com/images/jd/bjc3.jpg"]
+  },
+  {
+    
+    id: 31,
+    title: "沈阳",
+    address: "辽宁",
+    latitude: 41.798543,
+    longitude: 123.455519,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "沈阳",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/sy0.jpg",
+      "http://lixianglin.com/images/jd/sy1.jpg"]
+  }, {
+    
+    id: 32,
+    title: "杭州",
+    address: "浙江",
+    latitude: 30.2685764,
+    longitude: 120.1283053,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "杭州",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/hangzhou001.jpg"]
+  },
+  {
+    
+    id: 33,
+    title: "苏州",
+    address: "江苏",
+    latitude: 31.3202,
+    longitude: 120.5949,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "苏州",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/sz001.jpg"]
+  },
+  {
+    
+    id: 34,
+    title: "黄山",
+    address: "安徽",
+    latitude: 30.1341,
+    longitude: 118.1607,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "黄山",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/huangshan002.jpg",
+      "http://lixianglin.com/images/jd/huangshan001.jpg"]
+  },
+  {
+    
+    id: 35,
+    title: "东方明珠",
+    address: "上海",
+    latitude: 31.2396200,
+    longitude: 121.4960369,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "上海",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/shanghai001.jpg"]
+  },
+  {
+    
+    id: 36,
+    title: "乌镇",
+    address: "浙江",
+    latitude: 30.7464875,
+    longitude: 120.4819022,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "乌镇",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/wuzhen001.jpg",
+      "http://lixianglin.com/images/jd/wuzhen002.jpg"]
+  },
+  {
+    
+    id: 37,
+    title: "张家界",
+    address: "湖南",
+    latitude: 29.3582,
+    longitude: 110.4593,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "张家界",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/zjj001.jpg",
+      "http://lixianglin.com/images/jd/zjj002.jpg"]
+  },
+  {
+    
+    id: 38,
+    title: "东京",
+    address: "日本",
+    latitude: 35.65853,
+    longitude: 139.74544,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "东京",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/dongjing001.jpg",
+      "http://lixianglin.com/images/jd/dongjing002.jpg"]
+  },
+  {
+    
+    id: 39,
+    title: "京都",
+    address: "日本",
+    latitude: 34.96715,
+    longitude: 135.77309,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "京都",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/jingdu001.jpg",
+      "http://lixianglin.com/images/jd/jingdu002.jpg"]
+  },
+  {
+    
+    id: 40,
+    title: "奈良 ",
+    address: "日本",
+    latitude: 34.6889810,
+    longitude: 135.8398530,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "奈良",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/nailiang001.jpg",
+      "http://lixianglin.com/images/jd/nailiang002.jpg"]
+  },
+  {
+    
+    id: 41,
+    title: "大阪 ",
+    address: "日本",
+    latitude: 34.7053921,
+    longitude: 135.4902434,
+    width: 12,
+    height: 12,
+    callout: {
+      content: "大阪",
+      display: "ALWAYS"
+    },
+    imgUrls: ["http://lixianglin.com/images/jd/daban001.jpg",
+      "http://lixianglin.com/images/jd/daban002.jpg",
+      "http://lixianglin.com/images/jd/daban003.jpg"]
+  }
